@@ -1,0 +1,1035 @@
+[
+    {
+        "name": "Dateline Standard Time",
+        "abbr": "DST",
+        "zone": [
+            "Etc/GMT+12"
+        ]
+    },
+    {
+        "name": "UTC-11",
+        "abbr": "U",
+        "zone": [
+            "Pacific/Midway",
+            "Pacific/Niue",
+            "Pacific/Pago_Pago"
+        ]
+    },
+    {
+        "name": "Hawaiian Standard Time",
+        "abbr": "HST",
+        "zone": [
+            "Pacific/Honolulu",
+            "Pacific/Johnston",
+            "Pacific/Rarotonga",
+            "Pacific/Tahiti"
+        ]
+    },
+    {
+        "name": "Alaskan Standard Time",
+        "abbr": "AKDT",
+        "zone": [
+            "America/Anchorage",
+            "America/Juneau",
+            "America/Nome",
+            "America/Sitka",
+            "America/Yakutat"
+        ]
+    },
+    {
+        "name": "Pacific Standard Time (Mexico)",
+        "abbr": "PDT",
+        "zone": [
+            "America/Santa_Isabel"
+        ]
+    },
+    {
+        "name": "Pacific Standard Time",
+        "abbr": "PDT",
+        "zone": [
+            "America/Dawson",
+            "America/Los_Angeles",
+            "America/Tijuana",
+            "America/Vancouver",
+            "America/Whitehorse"
+        ]
+    },
+    {
+        "name": "US Mountain Standard Time",
+        "abbr": "UMST",
+        "zone": [
+            "America/Creston",
+            "America/Dawson_Creek",
+            "America/Hermosillo",
+            "America/Phoenix"
+        ]
+    },
+    {
+        "name": "Mountain Standard Time (Mexico)",
+        "abbr": "MDT",
+        "zone": [
+            "America/Chihuahua",
+            "America/Mazatlan"
+        ]
+    },
+    {
+        "name": "Mountain Standard Time",
+        "abbr": "MDT",
+        "zone": [
+            "America/Boise",
+            "America/Cambridge_Bay",
+            "America/Denver",
+            "America/Edmonton",
+            "America/Inuvik",
+            "America/Ojinaga",
+            "America/Yellowknife"
+        ]
+    },
+    {
+        "name": "Central America Standard Time",
+        "abbr": "CAST",
+        "zone": [
+            "America/Belize",
+            "America/Costa_Rica",
+            "America/El_Salvador",
+            "America/Guatemala",
+            "America/Managua",
+            "America/Tegucigalpa",
+            "Pacific/Galapagos"
+        ]
+    },
+    {
+        "name": "Central Standard Time",
+        "abbr": "CDT",
+        "zone": [
+            "America/Chicago",
+            "America/Indiana/Knox",
+            "America/Indiana/Tell_City",
+            "America/Matamoros",
+            "America/Menominee",
+            "America/North_Dakota/Beulah",
+            "America/North_Dakota/Center",
+            "America/North_Dakota/New_Salem",
+            "America/Rainy_River",
+            "America/Rankin_Inlet",
+            "America/Resolute",
+            "America/Winnipeg"
+        ]
+    },
+    {
+        "name": "Central Standard Time (Mexico)",
+        "abbr": "CDT",
+        "zone": [
+            "America/Bahia_Banderas",
+            "America/Cancun",
+            "America/Merida",
+            "America/Mexico_City",
+            "America/Monterrey"
+        ]
+    },
+    {
+        "name": "Canada Central Standard Time",
+        "abbr": "CCST",
+        "zone": [
+            "America/Regina",
+            "America/Swift_Current"
+        ]
+    },
+    {
+        "name": "SA Pacific Standard Time",
+        "abbr": "SPST",
+        "zone": [
+            "America/Bogota",
+            "America/Cayman",
+            "America/Coral_Harbour",
+            "America/Eirunepe",
+            "America/Guayaquil",
+            "America/Jamaica",
+            "America/Lima",
+            "America/Panama",
+            "America/Rio_Branco"
+        ]
+    },
+    {
+        "name": "Eastern Standard Time",
+        "abbr": "EDT",
+        "zone": [
+            "America/Detroit",
+            "America/Havana",
+            "America/Indiana/Petersburg",
+            "America/Indiana/Vincennes",
+            "America/Indiana/Winamac",
+            "America/Iqaluit",
+            "America/Kentucky/Monticello",
+            "America/Louisville",
+            "America/Montreal",
+            "America/Nassau",
+            "America/New_York",
+            "America/Nipigon",
+            "America/Pangnirtung",
+            "America/Port-au-Prince",
+            "America/Thunder_Bay",
+            "America/Toronto"
+        ]
+    },
+    {
+        "name": "US Eastern Standard Time",
+        "abbr": "UEDT",
+        "zone": [
+            "America/Indiana/Marengo",
+            "America/Indiana/Vevay",
+            "America/Indianapolis"
+        ]
+    },
+    {
+        "name": "Venezuela Standard Time",
+        "abbr": "VST",
+        "zone": [
+            "America/Caracas"
+        ]
+    },
+    {
+        "name": "Paraguay Standard Time",
+        "abbr": "PYT",
+        "zone": [
+            "America/Asuncion"
+        ]
+    },
+    {
+        "name": "Atlantic Standard Time",
+        "abbr": "ADT",
+        "zone": [
+            "America/Glace_Bay",
+            "America/Goose_Bay",
+            "America/Halifax",
+            "America/Moncton",
+            "America/Thule",
+            "Atlantic/Bermuda"
+        ]
+    },
+    {
+        "name": "Central Brazilian Standard Time",
+        "abbr": "CBST",
+        "zone": [
+            "America/Campo_Grande",
+            "America/Cuiaba"
+        ]
+    },
+    {
+        "name": "SA Western Standard Time",
+        "abbr": "SWST",
+        "zone": [
+            "America/Anguilla",
+            "America/Antigua",
+            "America/Aruba",
+            "America/Barbados",
+            "America/Blanc-Sablon",
+            "America/Boa_Vista",
+            "America/Curacao",
+            "America/Dominica",
+            "America/Grand_Turk",
+            "America/Grenada",
+            "America/Guadeloupe",
+            "America/Guyana",
+            "America/Kralendijk",
+            "America/La_Paz",
+            "America/Lower_Princes",
+            "America/Manaus",
+            "America/Marigot",
+            "America/Martinique",
+            "America/Montserrat",
+            "America/Port_of_Spain",
+            "America/Porto_Velho",
+            "America/Puerto_Rico",
+            "America/Santo_Domingo",
+            "America/St_Barthelemy",
+            "America/St_Kitts",
+            "America/St_Lucia",
+            "America/St_Thomas",
+            "America/St_Vincent",
+            "America/Tortola"
+        ]
+    },
+    {
+        "name": "Pacific SA Standard Time",
+        "abbr": "PSST",
+        "zone": [
+            "America/Santiago",
+            "Antarctica/Palmer"
+        ]
+    },
+    {
+        "name": "Newfoundland Standard Time",
+        "abbr": "NDT",
+        "zone": [
+            "America/St_Johns"
+        ]
+    },
+    {
+        "name": "E. South America Standard Time",
+        "abbr": "ESAST",
+        "zone": [
+            "America/Sao_Paulo"
+        ]
+    },
+    {
+        "name": "Argentina Standard Time",
+        "abbr": "AST",
+        "zone": [
+            "America/Argentina/La_Rioja",
+            "America/Argentina/Rio_Gallegos",
+            "America/Argentina/Salta",
+            "America/Argentina/San_Juan",
+            "America/Argentina/San_Luis",
+            "America/Argentina/Tucuman",
+            "America/Argentina/Ushuaia",
+            "America/Buenos_Aires",
+            "America/Catamarca",
+            "America/Cordoba",
+            "America/Jujuy",
+            "America/Mendoza"
+        ]
+    },
+    {
+        "name": "SA Eastern Standard Time",
+        "abbr": "SEST",
+        "zone": [
+            "America/Araguaina",
+            "America/Belem",
+            "America/Cayenne",
+            "America/Fortaleza",
+            "America/Maceio",
+            "America/Paramaribo",
+            "America/Recife",
+            "America/Santarem",
+            "Antarctica/Rothera",
+            "Atlantic/Stanley"
+        ]
+    },
+    {
+        "name": "Greenland Standard Time",
+        "abbr": "GDT",
+        "zone": [
+            "America/Godthab"
+        ]
+    },
+    {
+        "name": "Montevideo Standard Time",
+        "abbr": "MST",
+        "zone": [
+            "America/Montevideo"
+        ]
+    },
+    {
+        "name": "Bahia Standard Time",
+        "abbr": "BST",
+        "zone": [
+            "America/Bahia"
+        ]
+    },
+    {
+        "name": "UTC-02",
+        "abbr": "U",
+        "zone": [
+            "America/Noronha",
+            "Atlantic/South_Georgia"
+        ]
+    },
+    {
+        "name": "Azores Standard Time",
+        "abbr": "ADT",
+        "zone": [
+            "America/Scoresbysund",
+            "Atlantic/Azores"
+        ]
+    },
+    {
+        "name": "Cape Verde Standard Time",
+        "abbr": "CVST",
+        "zone": [
+            "Atlantic/Cape_Verde"
+        ]
+    },
+    {
+        "name": "Morocco Standard Time",
+        "abbr": "MDT",
+        "zone": [
+            "Africa/Casablanca",
+            "Africa/El_Aaiun"
+        ]
+    },
+    {
+        "name": "UTC",
+        "abbr": "UTC",
+        "zone": [
+            "America/Danmarkshavn"
+        ]
+    },
+    {
+        "name": "GMT Standard Time",
+        "abbr": "GDT",
+        "zone": [
+            "Atlantic/Canary",
+            "Atlantic/Faeroe",
+            "Atlantic/Madeira",
+            "Europe/Dublin",
+            "Europe/Guernsey",
+            "Europe/Isle_of_Man",
+            "Europe/Jersey",
+            "Europe/Lisbon",
+            "Europe/London"
+        ]
+    },
+    {
+        "name": "Greenwich Standard Time",
+        "abbr": "GST",
+        "zone": [
+            "Africa/Abidjan",
+            "Africa/Accra",
+            "Africa/Bamako",
+            "Africa/Banjul",
+            "Africa/Bissau",
+            "Africa/Conakry",
+            "Africa/Dakar",
+            "Africa/Freetown",
+            "Africa/Lome",
+            "Africa/Monrovia",
+            "Africa/Nouakchott",
+            "Africa/Ouagadougou",
+            "Africa/Sao_Tome",
+            "Atlantic/Reykjavik",
+            "Atlantic/St_Helena"
+        ]
+    },
+    {
+        "name": "W. Europe Standard Time",
+        "abbr": "WEDT",
+        "zone": [
+            "Arctic/Longyearbyen",
+            "Europe/Amsterdam",
+            "Europe/Andorra",
+            "Europe/Berlin",
+            "Europe/Busingen",
+            "Europe/Gibraltar",
+            "Europe/Luxembourg",
+            "Europe/Malta",
+            "Europe/Monaco",
+            "Europe/Oslo",
+            "Europe/Rome",
+            "Europe/San_Marino",
+            "Europe/Stockholm",
+            "Europe/Vaduz",
+            "Europe/Vatican",
+            "Europe/Vienna",
+            "Europe/Zurich"
+        ]
+    },
+    {
+        "name": "Central Europe Standard Time",
+        "abbr": "CEDT",
+        "zone": [
+            "Europe/Belgrade",
+            "Europe/Bratislava",
+            "Europe/Budapest",
+            "Europe/Ljubljana",
+            "Europe/Podgorica",
+            "Europe/Prague",
+            "Europe/Tirane"
+        ]
+    },
+    {
+        "name": "Romance Standard Time",
+        "abbr": "RDT",
+        "zone": [
+            "Africa/Ceuta",
+            "Europe/Brussels",
+            "Europe/Copenhagen",
+            "Europe/Madrid",
+            "Europe/Paris"
+        ]
+    },
+    {
+        "name": "Central European Standard Time",
+        "abbr": "CEDT",
+        "zone": [
+            "Europe/Sarajevo",
+            "Europe/Skopje",
+            "Europe/Warsaw",
+            "Europe/Zagreb"
+        ]
+    },
+    {
+        "name": "W. Central Africa Standard Time",
+        "abbr": "WCAST",
+        "zone": [
+            "Africa/Algiers",
+            "Africa/Bangui",
+            "Africa/Brazzaville",
+            "Africa/Douala",
+            "Africa/Kinshasa",
+            "Africa/Lagos",
+            "Africa/Libreville",
+            "Africa/Luanda",
+            "Africa/Malabo",
+            "Africa/Ndjamena",
+            "Africa/Niamey",
+            "Africa/Porto-Novo",
+            "Africa/Tunis",
+            "Etc/GMT-1"
+        ]
+    },
+    {
+        "name": "Namibia Standard Time",
+        "abbr": "NST",
+        "zone": [
+            "Africa/Windhoek"
+        ]
+    },
+    {
+        "name": "GTB Standard Time",
+        "abbr": "GDT",
+        "zone": [
+            "Asia/Nicosia",
+            "Europe/Athens",
+            "Europe/Bucharest",
+            "Europe/Chisinau"
+        ]
+    },
+    {
+        "name": "Middle East Standard Time",
+        "abbr": "MEDT",
+        "zone": [
+            "Asia/Beirut"
+        ]
+    },
+    {
+        "name": "Egypt Standard Time",
+        "abbr": "EST",
+        "zone": [
+            "Africa/Cairo"
+        ]
+    },
+    {
+        "name": "Syria Standard Time",
+        "abbr": "SDT",
+        "zone": [
+            "Asia/Damascus"
+        ]
+    },
+    {
+        "name": "E. Europe Standard Time",
+        "abbr": "EEDT",
+        "zone": [
+            "Asia/Nicosia",
+            "Europe/Athens",
+            "Europe/Bucharest",
+            "Europe/Chisinau",
+            "Europe/Helsinki",
+            "Europe/Kiev",
+            "Europe/Mariehamn",
+            "Europe/Nicosia",
+            "Europe/Riga",
+            "Europe/Sofia",
+            "Europe/Tallinn",
+            "Europe/Uzhgorod",
+            "Europe/Vilnius",
+            "Europe/Zaporozhye"
+        ]
+    },
+    {
+        "name": "South Africa Standard Time",
+        "abbr": "SAST",
+        "zone": [
+            "Africa/Blantyre",
+            "Africa/Bujumbura",
+            "Africa/Gaborone",
+            "Africa/Harare",
+            "Africa/Johannesburg",
+            "Africa/Kigali",
+            "Africa/Lubumbashi",
+            "Africa/Lusaka",
+            "Africa/Maputo",
+            "Africa/Maseru",
+            "Africa/Mbabane"
+        ]
+    },
+    {
+        "name": "FLE Standard Time",
+        "abbr": "FDT",
+        "zone": [
+            "Europe/Helsinki",
+            "Europe/Kiev",
+            "Europe/Mariehamn",
+            "Europe/Riga",
+            "Europe/Sofia",
+            "Europe/Tallinn",
+            "Europe/Uzhgorod",
+            "Europe/Vilnius",
+            "Europe/Zaporozhye"
+        ]
+    },
+    {
+        "name": "Turkey Standard Time",
+        "abbr": "TDT",
+        "zone": [
+            "Europe/Istanbul"
+        ]
+    },
+    {
+        "name": "Israel Standard Time",
+        "abbr": "JDT",
+        "zone": [
+            "Asia/Jerusalem"
+        ]
+    },
+    {
+        "name": "Libya Standard Time",
+        "abbr": "LST",
+        "zone": [
+            "Africa/Tripoli"
+        ]
+    },
+    {
+        "name": "Jordan Standard Time",
+        "abbr": "JST",
+        "zone": [
+            "Asia/Amman"
+        ]
+    },
+    {
+        "name": "Arabic Standard Time",
+        "abbr": "AST",
+        "zone": [
+            "Asia/Baghdad"
+        ]
+    },
+    {
+        "name": "Kaliningrad Standard Time",
+        "abbr": "KST",
+        "zone": [
+            "Europe/Kaliningrad",
+            "Europe/Minsk"
+        ]
+    },
+    {
+        "name": "Arab Standard Time",
+        "abbr": "AST",
+        "zone": [
+            "Asia/Aden",
+            "Asia/Bahrain",
+            "Asia/Kuwait",
+            "Asia/Qatar",
+            "Asia/Riyadh"
+        ]
+    },
+    {
+        "name": "E. Africa Standard Time",
+        "abbr": "EAST",
+        "zone": [
+            "Africa/Addis_Ababa",
+            "Africa/Asmera",
+            "Africa/Dar_es_Salaam",
+            "Africa/Djibouti",
+            "Africa/Juba",
+            "Africa/Kampala",
+            "Africa/Khartoum",
+            "Africa/Mogadishu",
+            "Africa/Nairobi",
+            "Antarctica/Syowa",
+            "Indian/Antananarivo",
+            "Indian/Comoro",
+            "Indian/Mayotte"
+        ]
+    },
+    {
+        "name": "Moscow Standard Time",
+        "abbr": "MSK",
+        "zone": [
+            "Europe/Kirov",
+            "Europe/Moscow",
+            "Europe/Simferopol",
+            "Europe/Volgograd"
+        ]
+    },
+    {
+        "name": "Samara Time",
+        "abbr": "SAMT",
+        "zone": [
+            "Europe/Astrakhan",
+            "Europe/Samara",
+            "Europe/Ulyanovsk"
+        ]
+    },
+    {
+        "name": "Iran Standard Time",
+        "abbr": "IDT",
+        "zone": [
+            "Asia/Tehran"
+        ]
+    },
+    {
+        "name": "Arabian Standard Time",
+        "abbr": "AST",
+        "zone": [
+            "Asia/Dubai",
+            "Asia/Muscat"
+        ]
+    },
+    {
+        "name": "Azerbaijan Standard Time",
+        "abbr": "ADT",
+        "zone": [
+            "Asia/Baku"
+        ]
+    },
+    {
+        "name": "Mauritius Standard Time",
+        "abbr": "MST",
+        "zone": [
+            "Indian/Mahe",
+            "Indian/Mauritius",
+            "Indian/Reunion"
+        ]
+    },
+    {
+        "name": "Georgian Standard Time",
+        "abbr": "GST",
+        "zone": [
+            "Asia/Tbilisi"
+        ]
+    },
+    {
+        "name": "Caucasus Standard Time",
+        "abbr": "CST",
+        "zone": [
+            "Asia/Yerevan"
+        ]
+    },
+    {
+        "name": "Afghanistan Standard Time",
+        "abbr": "AST",
+        "zone": [
+            "Asia/Kabul"
+        ]
+    },
+    {
+        "name": "West Asia Standard Time",
+        "abbr": "WAST",
+        "zone": [
+            "Antarctica/Mawson",
+            "Asia/Aqtau",
+            "Asia/Aqtobe",
+            "Asia/Ashgabat",
+            "Asia/Dushanbe",
+            "Asia/Oral",
+            "Asia/Samarkand",
+            "Asia/Tashkent",
+            "Indian/Kerguelen",
+            "Indian/Maldives"
+        ]
+    },
+    {
+        "name": "Pakistan Standard Time",
+        "abbr": "PST",
+        "zone": [
+            "Asia/Karachi"
+        ]
+    },
+    {
+        "name": "India Standard Time",
+        "abbr": "IST",
+        "zone": [
+            "Asia/Kolkata"
+        ]
+    },
+    {
+        "name": "Sri Lanka Standard Time",
+        "abbr": "SLST",
+        "zone": [
+            "Asia/Colombo"
+        ]
+    },
+    {
+        "name": "Nepal Standard Time",
+        "abbr": "NST",
+        "zone": [
+            "Asia/Katmandu"
+        ]
+    },
+    {
+        "name": "Central Asia Standard Time",
+        "abbr": "CAST",
+        "zone": [
+            "Antarctica/Vostok",
+            "Asia/Almaty",
+            "Asia/Bishkek",
+            "Asia/Qyzylorda",
+            "Asia/Urumqi",
+            "Indian/Chagos"
+        ]
+    },
+    {
+        "name": "Bangladesh Standard Time",
+        "abbr": "BST",
+        "zone": [
+            "Asia/Dhaka",
+            "Asia/Thimphu"
+        ]
+    },
+    {
+        "name": "Ekaterinburg Standard Time",
+        "abbr": "EST",
+        "zone": [
+            "Asia/Yekaterinburg"
+        ]
+    },
+    {
+        "name": "Myanmar Standard Time",
+        "abbr": "MST",
+        "zone": [
+            "Asia/Rangoon",
+            "Indian/Cocos"
+        ]
+    },
+    {
+        "name": "SE Asia Standard Time",
+        "abbr": "SAST",
+        "zone": [
+            "Antarctica/Davis",
+            "Asia/Bangkok",
+            "Asia/Hovd",
+            "Asia/Jakarta",
+            "Asia/Phnom_Penh",
+            "Asia/Pontianak",
+            "Asia/Saigon",
+            "Asia/Vientiane",
+            "Indian/Christmas"
+        ]
+    },
+    {
+        "name": "N. Central Asia Standard Time",
+        "abbr": "NCAST",
+        "zone": [
+            "Asia/Novokuznetsk",
+            "Asia/Novosibirsk",
+            "Asia/Omsk"
+        ]
+    },
+    {
+        "name": "China Standard Time",
+        "abbr": "CST",
+        "zone": [
+            "Asia/Hong_Kong",
+            "Asia/Macau",
+            "Asia/Shanghai"
+        ]
+    },
+    {
+        "name": "North Asia Standard Time",
+        "abbr": "NAST",
+        "zone": [
+            "Asia/Krasnoyarsk"
+        ]
+    },
+    {
+        "name": "Singapore Standard Time",
+        "abbr": "MPST",
+        "zone": [
+            "Asia/Brunei",
+            "Asia/Kuala_Lumpur",
+            "Asia/Kuching",
+            "Asia/Makassar",
+            "Asia/Manila",
+            "Asia/Singapore"
+        ]
+    },
+    {
+        "name": "W. Australia Standard Time",
+        "abbr": "WAST",
+        "zone": [
+            "Antarctica/Casey",
+            "Australia/Perth"
+        ]
+    },
+    {
+        "name": "Taipei Standard Time",
+        "abbr": "TST",
+        "zone": [
+            "Asia/Taipei"
+        ]
+    },
+    {
+        "name": "Ulaanbaatar Standard Time",
+        "abbr": "UST",
+        "zone": [
+            "Asia/Choibalsan",
+            "Asia/Ulaanbaatar"
+        ]
+    },
+    {
+        "name": "North Asia East Standard Time",
+        "abbr": "NAEST",
+        "zone": [
+            "Asia/Irkutsk"
+        ]
+    },
+    {
+        "name": "Tokyo Standard Time",
+        "abbr": "TST",
+        "zone": [
+            "Asia/Dili",
+            "Asia/Jayapura",
+            "Asia/Tokyo",
+            "Pacific/Palau"
+        ]
+    },
+    {
+        "name": "Korea Standard Time",
+        "abbr": "KST",
+        "zone": [
+            "Asia/Pyongyang",
+            "Asia/Seoul"
+        ]
+    },
+    {
+        "name": "Cen. Australia Standard Time",
+        "abbr": "CAST",
+        "zone": [
+            "Australia/Adelaide",
+            "Australia/Broken_Hill"
+        ]
+    },
+    {
+        "name": "AUS Central Standard Time",
+        "abbr": "ACST",
+        "zone": [
+            "Australia/Darwin"
+        ]
+    },
+    {
+        "name": "E. Australia Standard Time",
+        "abbr": "EAST",
+        "zone": [
+            "Australia/Brisbane",
+            "Australia/Lindeman"
+        ]
+    },
+    {
+        "name": "AUS Eastern Standard Time",
+        "abbr": "AEST",
+        "zone": [
+            "Australia/Melbourne",
+            "Australia/Sydney"
+        ]
+    },
+    {
+        "name": "West Pacific Standard Time",
+        "abbr": "WPST",
+        "zone": [
+            "Antarctica/DumontDUrville",
+            "Pacific/Guam",
+            "Pacific/Port_Moresby",
+            "Pacific/Saipan",
+            "Pacific/Truk"
+        ]
+    },
+    {
+        "name": "Tasmania Standard Time",
+        "abbr": "TST",
+        "zone": [
+            "Australia/Currie",
+            "Australia/Hobart"
+        ]
+    },
+    {
+        "name": "Yakutsk Standard Time",
+        "abbr": "YST",
+        "zone": [
+            "Asia/Chita",
+            "Asia/Khandyga",
+            "Asia/Yakutsk"
+        ]
+    },
+    {
+        "name": "Central Pacific Standard Time",
+        "abbr": "CPST",
+        "zone": [
+            "Antarctica/Macquarie",
+            "Pacific/Efate",
+            "Pacific/Guadalcanal",
+            "Pacific/Kosrae",
+            "Pacific/Noumea",
+            "Pacific/Ponape"
+        ]
+    },
+    {
+        "name": "Vladivostok Standard Time",
+        "abbr": "VST",
+        "zone": [
+            "Asia/Sakhalin",
+            "Asia/Ust-Nera",
+            "Asia/Vladivostok"
+        ]
+    },
+    {
+        "name": "New Zealand Standard Time",
+        "abbr": "NZST",
+        "zone": [
+            "Antarctica/McMurdo",
+            "Pacific/Auckland"
+        ]
+    },
+    {
+        "name": "UTC+12",
+        "abbr": "U",
+        "zone": [
+            "Pacific/Funafuti",
+            "Pacific/Kwajalein",
+            "Pacific/Majuro",
+            "Pacific/Nauru",
+            "Pacific/Tarawa",
+            "Pacific/Wake",
+            "Pacific/Wallis"
+        ]
+    },
+    {
+        "name": "Fiji Standard Time",
+        "abbr": "FST",
+        "zone": [
+            "Pacific/Fiji"
+        ]
+    },
+    {
+        "name": "Magadan Standard Time",
+        "abbr": "MST",
+        "zone": [
+            "Asia/Anadyr",
+            "Asia/Kamchatka",
+            "Asia/Magadan",
+            "Asia/Srednekolymsk"
+        ]
+    },
+    {
+        "name": "Kamchatka Standard Time",
+        "abbr": "KDT",
+        "zone": [
+            "Asia/Kamchatka"
+        ]
+    },
+    {
+        "name": "Tonga Standard Time",
+        "abbr": "TST",
+        "zone": [
+            "Pacific/Enderbury",
+            "Pacific/Fakaofo",
+            "Pacific/Tongatapu"
+        ]
+    },
+    {
+        "name": "Samoa Standard Time",
+        "abbr": "SST",
+        "zone": [
+            "Pacific/Apia"
+        ]
+    }
+]

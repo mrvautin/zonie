@@ -1,0 +1,31 @@
+{
+  "name": "zonie",
+  "version": "1.0.0",
+  "description": "A timezone library allowing you to get the current date/time in any timezone of the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "author": "Mark Moffat",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  },
+  "keywords": [
+    "timezone",
+    "time",
+    "convert",
+    "date"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrvautin/zonie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrvautin/zonie/issues"
+  }
+}
